@@ -25,6 +25,7 @@ D-Execute Pipeline Activity-> If we want to run pipeline within pipeline then we
 
 
 E-Join transformation->when u combine data based on column basis
+
 <img width="1750" height="613" alt="image" src="https://github.com/user-attachments/assets/e7b11564-856e-423f-b2a1-a9d31caa5eaf" />
 
 F-Append Variable activity empowers you to dynamically add or concatenate values to existing variables
@@ -34,6 +35,22 @@ F-Append Variable activity empowers you to dynamically add or concatenate values
 G-Swict Activity->we have input folder in which employee and department file we want to store specific file into specific folder ex-employee folder goes into employee file
 
 <img width="1805" height="693" alt="image" src="https://github.com/user-attachments/assets/2761368a-2924-4d69-9ef7-a707b9a6e0b8" />
+
+H-Validation Activity-> to ensure pipeline only continue execution once it has validated data attached, dataset reference exists , that meet specified criteria.
+
+<img width="1813" height="672" alt="image" src="https://github.com/user-attachments/assets/bfb567de-fc5c-4dc8-9f4f-b19bc0066e67" />
+
+I-Pivot Transformation-> Pivot is a transformation in Mapping Data Flow that turns row data into columns.Unpivot is a transformation used to convert columns into rows.
+
+<img width="1710" height="558" alt="image" src="https://github.com/user-attachments/assets/abc83d95-1ef5-4917-a25a-0ef2129fa24a" />
+
+J-surrogate key-> as a simple ID tag you give to each row in a table, just to keep track of it — even if the real data doesn’t have a unique identifier.
+
+<img width="1750" height="628" alt="image" src="https://github.com/user-attachments/assets/312f8e21-6dcc-4b43-813f-12c9bfa5da8e" />
+
+
+
+
 
 
 
