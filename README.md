@@ -1,8 +1,10 @@
 # Azure Data Factory Project
 
-Azure Data Factory Project we are creating some data pipeline and dataflow
-In this project
-A-we are perform copy activity ->from blob to blob and also perform Copy_Activity_From_Github in which take data from Git-Hub website directly and store into blob storage.copy data from one loc/GitHub website to another loc/folder/storage using copy activity by http connection
+In our Azure Data Factory (ADF) project, we are designing and implementing data pipelines and data flows to orchestrate and transform data across multiple sources and destinations. The pipelines manage end-to-end data movement, while the data flows handle complex transformations such as joins, aggregations, lookups, and surrogate key generation to ensure clean, consistent, and analytics-ready data.
+
+
+
+A-copy activity ->from blob to blob and also perform Copy_Activity_From_Github in which take data from Git-Hub website directly and store into blob storage.copy data from one loc/GitHub website to another loc/folder/storage using copy activity by http connection
 
 <img width="1255" height="615" alt="P2" src="https://github.com/user-attachments/assets/3f77e4cb-3905-4b50-ba0a-7f06f92cd7c0" />
 
