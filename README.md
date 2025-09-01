@@ -46,9 +46,22 @@ I-Pivot Transformation-> Pivot is a transformation in Mapping Data Flow that tur
 
 <img width="1710" height="558" alt="image" src="https://github.com/user-attachments/assets/abc83d95-1ef5-4917-a25a-0ef2129fa24a" />
 
-J-surrogate key-> as a simple ID tag you give to each row in a table, just to keep track of it — even if the real data doesn’t have a unique identifier.
+J-surrogate key-> as a simple ID tag you give to each row in a table, just to keep track of it — even if the real data doesn’t have a unique identifier.A new column with unique IDs generated inside a Mapping Data Flow.
+It’s not taken from your source data — ADF creates it for you automatically.
+Usually used in data warehousing to give each row a simple unique key (like 1, 2, 3…) even when no natural key exists.
+
 
 <img width="1750" height="628" alt="image" src="https://github.com/user-attachments/assets/312f8e21-6dcc-4b43-813f-12c9bfa5da8e" />
+
+K-> SCD-TYPE1 DATA FLOW->It is a technique in data warehousing to manage and track historical changes in dimension tables, commonly implemented as Type-1 (overwrite)
+
+<img width="1732" height="616" alt="image" src="https://github.com/user-attachments/assets/9bce9353-b533-493e-b311-c902d557f687" />
+
+L-> WINDOW TRANSFORMATION->to similar to SQL window functions (ROW_NUMBER, RANK, LAG, LEAD, running totals, moving averages, etc.).
+
+<img width="1756" height="610" alt="image" src="https://github.com/user-attachments/assets/f4c15c11-7c90-493b-a396-cf56e93fe376" />
+
+
 
 
 
