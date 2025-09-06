@@ -1,6 +1,10 @@
 # Azure Data Factory Project
 
-In our Azure Data Factory (ADF) project, we are designing and implementing data pipelines and data flows to orchestrate and transform data across multiple sources and destinations. The pipelines manage end-to-end data movement, while the data flows handle complex transformations such as joins, aggregations, lookups, and surrogate key generation to ensure clean, consistent, and analytics-ready data.
+In our Azure Data Factory (ADF) project, Designed and implemented end-to-end data pipelines to orchestrate data movement across multiple sources (Blob Storage, GitHub, HTTP connectors) and destinations.
+Developed complex data flows to perform transformations such as joins, aggregations, lookups, pivot/unpivot, surrogate key generation, and Slowly Changing Dimension (SCD Type-1) processing for analytics-ready datasets.
+Implemented activities like Copy, Get Metadata, Set Variable, Append Variable, Execute Pipeline, Switch, and Validation to automate workflows and ensure reliable data integration.
+Leveraged Mapping Data Flows to visually design scalable transformations including window functions (ROW_NUMBER, RANK, LAG/LEAD, running totals) for advanced data preparation.
+Configured pipeline triggers and scheduling to automate workflows and enable timely data refresh for reporting.
 
 
 
