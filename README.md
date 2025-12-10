@@ -8,7 +8,7 @@ Configured pipeline triggers and scheduling to automate workflows and enable tim
 
 
 
-A-copy activity ->from blob to blob and also perform Copy_Activity_From_Github in which take data from Git-Hub website directly and store into blob storage.copy data from one loc/GitHub website to another loc/folder/storage using copy activity by http connection
+*A-copy activity* ->from blob to blob and also perform Copy_Activity_From_Github in which take data from Git-Hub website directly and store into blob storage.copy data from one loc/GitHub website to another loc/folder/storage using copy activity by http connection
 
 <img width="1255" height="615" alt="P2" src="https://github.com/user-attachments/assets/3f77e4cb-3905-4b50-ba0a-7f06f92cd7c0" />
 
