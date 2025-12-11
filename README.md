@@ -15,7 +15,10 @@ from blob to blob and also perform Copy_Activity_From_Github in which take data 
 
 # 1-Copy Activity from On-Premise MySql DB into Azure DataLake Using Self Hosted Integration Runtime
 Migration of Data from on-premise MySQL database to azure Data-lake using self hosted IR
-"C:\Users\praya\Downloads\mysql Linked service.png"
+<img width="1065" height="747" alt="mysql Linked service" src="https://github.com/user-attachments/assets/a1a338e4-5012-46d0-8801-bfd2883a58fa" />
+<img width="1208" height="615" alt="image" src="https://github.com/user-attachments/assets/904de95b-ed79-4eb3-aebb-f233d4b0d7b4" />
+
+
 
 
 # B-Get Metadata Activity-> 
