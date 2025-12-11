@@ -13,6 +13,10 @@ from blob to blob and also perform Copy_Activity_From_Github in which take data 
 
 <img width="1255" height="615" alt="P2" src="https://github.com/user-attachments/assets/3f77e4cb-3905-4b50-ba0a-7f06f92cd7c0" />
 
+# 1-Copy Activity from On-Premise MySql DB into Azure DataLake Using Self Hosted Integration Runtime
+Migration of Data from on-premise MySQL database to azure Data-lake using self hosted IR
+"C:\Users\praya\Downloads\mysql Linked service.png"
+
 
 # B-Get Metadata Activity-> 
 to  want specific files from folder and then using for each to iterate file one by one and if file match with IF condition then copy data from sink folder.Get metadata activity and then use if condition and for each activity to fetch specific file name
